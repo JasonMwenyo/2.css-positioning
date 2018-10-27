@@ -2,28 +2,24 @@ html {
     background-color: #fa923f;
     padding: 10px;
 }
-html{
-    background-color: #fa923f;
-    padding: 10px;
-}
+
 body {
     background-color: yellow;
     padding: 10px;
     margin: 0;
-
 }
 
-header {
+.header {
     background-color: #f073e1;
     margin: 10px;
 }
 
-nav {
+.nav {
     background-color: #f073e1;
     margin: 10px;
 }
 
-footer {
+.footer {
     background-color: #f073e1; 
     margin: 10px;
 }
